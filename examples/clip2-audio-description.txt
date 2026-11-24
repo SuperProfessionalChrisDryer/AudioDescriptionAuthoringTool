@@ -1,0 +1,60 @@
+AUDIO DESCRIPTION SCRIPT - TEST CLIP 2 (Mannequins) - CORRECTED
+Source clip: 123.0 seconds, 1920x1080, 24 MB
+Style: present tense, objective description, on-screen text read verbatim
+
+CORRECTION (2026-10-22)
+An earlier version of this script said the clip had no dialogue, based on
+silence/volume analysis alone. That was wrong. Transcription (Whisper, base
+model) shows near-continuous artificial-voice dialogue from 0.2s to 119.6s:
+a comedic two-voice exchange between the man and the mannequin character.
+Lesson for the app: silence detection cannot tell speech from music. The
+scanner must transcribe speech to find real AD windows.
+
+DIALOGUE MAP (from transcription, abridged)
+0.2-4.2s   "...let me get the light here." (matches the light-switch visual)
+4.2-21.5s  Welcome / "dream factory" / compliments about the apartment
+21.5-32.5s Books and tastes; "do you like rose wines?"
+33.5-44.0s Rose wines; "I don't wear a genie hat for nothing"; searching
+44.0-56.5s "If we are going to Netflix and chill, where is the TV?" (fridge scene)
+56.5-63.8s "...let me play you a song." (guitar begins)
+63.8-89.1s Reactions to the song and to the "naked lady" mannequin
+89.1-98.3s "My mannequin baby."
+98.3-119.6s Guitar/singing compliments; final lines over the closing shots
+Clear gaps in dialogue: about 32.5-33.5s (1.0s) and after 119.6s (fade-out).
+Everything else is back-to-back lines with sub-second pauses.
+
+AUTO-DETECTED MARKERS
+Pauses >= 1s (-40 dB): 1 found - 121.4s-123.0s (end fade). Note: the 1.0s
+dialogue gap at ~33s sits under music, so silence detection misses it;
+only transcription reveals it.
+Scene changes (19 detected, used as cue boundaries):
+  7.5s, 14.2s, 21.9s, 33.4s, 37.5s, 44.6s, 55.4s, 56.4s, 63.7s, 64.9s,
+  67.5s, 70.3s, 73.7s, 76.7s, 84.9s, 86.8s, 103.1s, 111.8s, 122.8s
+
+REVISED PLACEMENT VERDICT
+Like Clip 1, this clip is dialogue-dense - the dialogue is synthetic, but AD
+rules treat it the same as any speech: do not talk over it. Standard
+in-program AD has room for essentially the opening cue only. The cues below
+are therefore authored as EXTENDED AD, timed to the visual events.
+
+CUES (Extended AD)
+[00:00-00:02] Black screen.
+[00:02-00:07] In darkness, a light switch on a wood-paneled wall. A pale hand reaches in and flips it on.
+[00:07-00:14] Lights on. The camera pans across a cluttered room of shelves packed with books and supplies. Two figures stand among them: a nude female mannequin with a curly blonde wig, one hand on her hip, and a figure in a puffy white suit.
+[00:14-00:22] Close-ups. The figure in white wears a fake black beard, dark sunglasses, and a red-and-gold turban. The mannequin's wig falls across one eye.
+[00:22-00:33] Book spines fill the frame; one reads "NABOKOV." The mannequin's face in profile, then the room again.
+[00:33-00:37] Pink string lights blur in the foreground. The man in the white suit stands beside a refrigerator, his hand on the door.
+[00:37-00:45] On a bookshelf, a sign reads "SMILE YOU'RE ON CAMERA," beside books including "GRAY'S ANATOMY."
+[00:45-00:55] From inside the refrigerator: the man opens the door and reaches in, moving items on the shelves.
+[00:55-01:04] The mannequin turns. Close-up: the man's hand strums an acoustic guitar. The camera tilts up to his face in profile.
+[01:04-01:14] Alternating views: the mannequin's face; a cluttered desk with a paper cut-out face; the man seated with the guitar; the mannequin standing before the shelves. A sign reads "Please Keep Quiet In the Library."
+[01:14-01:25] Extreme close-up: the mannequin's eyes look upward. Hands play the guitar, fingers pressing the frets, the other hand strumming.
+[01:25-01:43] Close-ups alternate between the two faces, then return to the guitar: the strumming hand, and fingers moving along the neck.
+[01:43-01:52] The man's face in close-up, his mouth slightly open behind the fake beard. The mannequin's glossy lips and eyes fill the frame.
+[01:52-02:03] In profile, the man continues playing the guitar as the picture fades to black.
+
+NOTES FOR REVIEW
+- The visual descriptions in the earlier draft were accurate; only the
+  placement analysis changed after transcription.
+- Not a legal-compliance certification; a human AD review pass would still be
+  required for broadcast/streaming delivery.

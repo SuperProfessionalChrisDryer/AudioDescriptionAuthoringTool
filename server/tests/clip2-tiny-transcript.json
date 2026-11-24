@@ -1,0 +1,1057 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.26,
+   "text": "Hold on their honey, just let me get the light here. There.",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.98,
+     "word": " Hold"
+    },
+    {
+     "start": 0.98,
+     "end": 1.3,
+     "word": " on"
+    },
+    {
+     "start": 1.3,
+     "end": 1.54,
+     "word": " their"
+    },
+    {
+     "start": 1.54,
+     "end": 1.88,
+     "word": " honey,"
+    },
+    {
+     "start": 2.32,
+     "end": 2.58,
+     "word": " just"
+    },
+    {
+     "start": 2.58,
+     "end": 2.82,
+     "word": " let"
+    },
+    {
+     "start": 2.82,
+     "end": 2.96,
+     "word": " me"
+    },
+    {
+     "start": 2.96,
+     "end": 3.24,
+     "word": " get"
+    },
+    {
+     "start": 3.24,
+     "end": 3.46,
+     "word": " the"
+    },
+    {
+     "start": 3.46,
+     "end": 3.66,
+     "word": " light"
+    },
+    {
+     "start": 3.66,
+     "end": 4.24,
+     "word": " here."
+    },
+    {
+     "start": 4.7,
+     "end": 5.26,
+     "word": " There."
+    }
+   ]
+  },
+  {
+   "start": 10.44,
+   "end": 14.8,
+   "text": "Welcome to my old boat. I call it the dream factory.",
+   "words": [
+    {
+     "start": 10.44,
+     "end": 10.62,
+     "word": " Welcome"
+    },
+    {
+     "start": 10.62,
+     "end": 10.92,
+     "word": " to"
+    },
+    {
+     "start": 10.92,
+     "end": 11.12,
+     "word": " my"
+    },
+    {
+     "start": 11.12,
+     "end": 11.28,
+     "word": " old"
+    },
+    {
+     "start": 11.28,
+     "end": 12.14,
+     "word": " boat."
+    },
+    {
+     "start": 13.1,
+     "end": 13.36,
+     "word": " I"
+    },
+    {
+     "start": 13.36,
+     "end": 13.64,
+     "word": " call"
+    },
+    {
+     "start": 13.64,
+     "end": 13.84,
+     "word": " it"
+    },
+    {
+     "start": 13.84,
+     "end": 13.98,
+     "word": " the"
+    },
+    {
+     "start": 13.98,
+     "end": 14.24,
+     "word": " dream"
+    },
+    {
+     "start": 14.24,
+     "end": 14.8,
+     "word": " factory."
+    }
+   ]
+  },
+  {
+   "start": 15.76,
+   "end": 21.76,
+   "text": "Your apartment is beautiful. You are a very cultured man with good tastes. I am glad I showed up naked.",
+   "words": [
+    {
+     "start": 15.76,
+     "end": 16.0,
+     "word": " Your"
+    },
+    {
+     "start": 16.0,
+     "end": 16.38,
+     "word": " apartment"
+    },
+    {
+     "start": 16.38,
+     "end": 16.72,
+     "word": " is"
+    },
+    {
+     "start": 16.72,
+     "end": 17.1,
+     "word": " beautiful."
+    },
+    {
+     "start": 17.42,
+     "end": 17.64,
+     "word": " You"
+    },
+    {
+     "start": 17.64,
+     "end": 17.8,
+     "word": " are"
+    },
+    {
+     "start": 17.8,
+     "end": 18.0,
+     "word": " a"
+    },
+    {
+     "start": 18.0,
+     "end": 18.24,
+     "word": " very"
+    },
+    {
+     "start": 18.24,
+     "end": 18.68,
+     "word": " cultured"
+    },
+    {
+     "start": 18.68,
+     "end": 18.9,
+     "word": " man"
+    },
+    {
+     "start": 18.9,
+     "end": 19.12,
+     "word": " with"
+    },
+    {
+     "start": 19.12,
+     "end": 19.38,
+     "word": " good"
+    },
+    {
+     "start": 19.38,
+     "end": 19.8,
+     "word": " tastes."
+    },
+    {
+     "start": 20.12,
+     "end": 20.34,
+     "word": " I"
+    },
+    {
+     "start": 20.34,
+     "end": 20.52,
+     "word": " am"
+    },
+    {
+     "start": 20.52,
+     "end": 20.7,
+     "word": " glad"
+    },
+    {
+     "start": 20.7,
+     "end": 20.96,
+     "word": " I"
+    },
+    {
+     "start": 20.96,
+     "end": 21.18,
+     "word": " showed"
+    },
+    {
+     "start": 21.18,
+     "end": 21.38,
+     "word": " up"
+    },
+    {
+     "start": 21.38,
+     "end": 21.76,
+     "word": " naked."
+    }
+   ]
+  },
+  {
+   "start": 22.44,
+   "end": 23.24,
+   "text": "Thanks baby.",
+   "words": [
+    {
+     "start": 22.44,
+     "end": 22.8,
+     "word": " Thanks"
+    },
+    {
+     "start": 22.8,
+     "end": 23.24,
+     "word": " baby."
+    }
+   ]
+  },
+  {
+   "start": 23.98,
+   "end": 25.9,
+   "text": "You have so many eclectic books.",
+   "words": [
+    {
+     "start": 23.98,
+     "end": 24.12,
+     "word": " You"
+    },
+    {
+     "start": 24.12,
+     "end": 24.36,
+     "word": " have"
+    },
+    {
+     "start": 24.36,
+     "end": 24.58,
+     "word": " so"
+    },
+    {
+     "start": 24.58,
+     "end": 24.86,
+     "word": " many"
+    },
+    {
+     "start": 24.86,
+     "end": 25.42,
+     "word": " eclectic"
+    },
+    {
+     "start": 25.42,
+     "end": 25.9,
+     "word": " books."
+    }
+   ]
+  },
+  {
+   "start": 27.12,
+   "end": 28.32,
+   "text": "Thanks baby.",
+   "words": [
+    {
+     "start": 27.12,
+     "end": 27.72,
+     "word": " Thanks"
+    },
+    {
+     "start": 27.72,
+     "end": 28.32,
+     "word": " baby."
+    }
+   ]
+  },
+  {
+   "start": 29.5,
+   "end": 31.96,
+   "text": "Say, do you like ros\u00e9 wines?",
+   "words": [
+    {
+     "start": 29.5,
+     "end": 30.0,
+     "word": " Say,"
+    },
+    {
+     "start": 30.36,
+     "end": 30.58,
+     "word": " do"
+    },
+    {
+     "start": 30.58,
+     "end": 30.7,
+     "word": " you"
+    },
+    {
+     "start": 30.7,
+     "end": 30.92,
+     "word": " like"
+    },
+    {
+     "start": 30.92,
+     "end": 31.38,
+     "word": " ros\u00e9"
+    },
+    {
+     "start": 31.38,
+     "end": 31.96,
+     "word": " wines?"
+    }
+   ]
+  },
+  {
+   "start": 33.68,
+   "end": 36.8,
+   "text": "Ros\u00e9 wines are my favorite. How did you know?",
+   "words": [
+    {
+     "start": 33.68,
+     "end": 34.04,
+     "word": " Ros\u00e9"
+    },
+    {
+     "start": 34.04,
+     "end": 34.44,
+     "word": " wines"
+    },
+    {
+     "start": 34.44,
+     "end": 34.68,
+     "word": " are"
+    },
+    {
+     "start": 34.68,
+     "end": 34.88,
+     "word": " my"
+    },
+    {
+     "start": 34.88,
+     "end": 35.28,
+     "word": " favorite."
+    },
+    {
+     "start": 35.58,
+     "end": 35.78,
+     "word": " How"
+    },
+    {
+     "start": 35.78,
+     "end": 35.96,
+     "word": " did"
+    },
+    {
+     "start": 35.96,
+     "end": 36.14,
+     "word": " you"
+    },
+    {
+     "start": 36.14,
+     "end": 36.8,
+     "word": " know?"
+    }
+   ]
+  },
+  {
+   "start": 37.74,
+   "end": 40.04,
+   "text": "I don't wear a genie hat for nothing.",
+   "words": [
+    {
+     "start": 37.74,
+     "end": 37.84,
+     "word": " I"
+    },
+    {
+     "start": 37.84,
+     "end": 38.14,
+     "word": " don't"
+    },
+    {
+     "start": 38.14,
+     "end": 38.44,
+     "word": " wear"
+    },
+    {
+     "start": 38.44,
+     "end": 38.72,
+     "word": " a"
+    },
+    {
+     "start": 38.72,
+     "end": 38.98,
+     "word": " genie"
+    },
+    {
+     "start": 38.98,
+     "end": 39.24,
+     "word": " hat"
+    },
+    {
+     "start": 39.24,
+     "end": 39.48,
+     "word": " for"
+    },
+    {
+     "start": 39.48,
+     "end": 40.04,
+     "word": " nothing."
+    }
+   ]
+  },
+  {
+   "start": 42.26,
+   "end": 44.24,
+   "text": "Let's see here. Where is it?",
+   "words": [
+    {
+     "start": 42.26,
+     "end": 42.58,
+     "word": " Let's"
+    },
+    {
+     "start": 42.58,
+     "end": 42.82,
+     "word": " see"
+    },
+    {
+     "start": 42.82,
+     "end": 43.28,
+     "word": " here."
+    },
+    {
+     "start": 43.56,
+     "end": 43.68,
+     "word": " Where"
+    },
+    {
+     "start": 43.68,
+     "end": 43.88,
+     "word": " is"
+    },
+    {
+     "start": 43.88,
+     "end": 44.24,
+     "word": " it?"
+    }
+   ]
+  },
+  {
+   "start": 52.98,
+   "end": 56.72,
+   "text": "If we are going to Netflix and chill, where is the TV?",
+   "words": [
+    {
+     "start": 52.98,
+     "end": 53.48,
+     "word": " If"
+    },
+    {
+     "start": 53.48,
+     "end": 53.68,
+     "word": " we"
+    },
+    {
+     "start": 53.68,
+     "end": 53.84,
+     "word": " are"
+    },
+    {
+     "start": 53.84,
+     "end": 54.12,
+     "word": " going"
+    },
+    {
+     "start": 54.12,
+     "end": 54.34,
+     "word": " to"
+    },
+    {
+     "start": 54.34,
+     "end": 54.68,
+     "word": " Netflix"
+    },
+    {
+     "start": 54.68,
+     "end": 55.0,
+     "word": " and"
+    },
+    {
+     "start": 55.0,
+     "end": 55.24,
+     "word": " chill,"
+    },
+    {
+     "start": 55.5,
+     "end": 55.72,
+     "word": " where"
+    },
+    {
+     "start": 55.72,
+     "end": 55.9,
+     "word": " is"
+    },
+    {
+     "start": 55.9,
+     "end": 56.04,
+     "word": " the"
+    },
+    {
+     "start": 56.04,
+     "end": 56.72,
+     "word": " TV?"
+    }
+   ]
+  },
+  {
+   "start": 59.14,
+   "end": 64.9,
+   "text": "Hosh those sweet stationary lips, and let me play and we'll song.",
+   "words": [
+    {
+     "start": 59.14,
+     "end": 59.78,
+     "word": " Hosh"
+    },
+    {
+     "start": 59.78,
+     "end": 60.04,
+     "word": " those"
+    },
+    {
+     "start": 60.04,
+     "end": 60.42,
+     "word": " sweet"
+    },
+    {
+     "start": 60.42,
+     "end": 60.92,
+     "word": " stationary"
+    },
+    {
+     "start": 60.92,
+     "end": 61.48,
+     "word": " lips,"
+    },
+    {
+     "start": 61.7,
+     "end": 61.94,
+     "word": " and"
+    },
+    {
+     "start": 61.94,
+     "end": 62.08,
+     "word": " let"
+    },
+    {
+     "start": 62.08,
+     "end": 62.34,
+     "word": " me"
+    },
+    {
+     "start": 62.34,
+     "end": 62.68,
+     "word": " play"
+    },
+    {
+     "start": 62.68,
+     "end": 62.94,
+     "word": " and"
+    },
+    {
+     "start": 62.94,
+     "end": 62.96,
+     "word": " we'll"
+    },
+    {
+     "start": 62.96,
+     "end": 64.9,
+     "word": " song."
+    }
+   ]
+  },
+  {
+   "start": 81.96,
+   "end": 84.74,
+   "text": "Who's got naked lady looking at my books?",
+   "words": [
+    {
+     "start": 81.96,
+     "end": 82.6,
+     "word": " Who's"
+    },
+    {
+     "start": 82.6,
+     "end": 82.76,
+     "word": " got"
+    },
+    {
+     "start": 82.76,
+     "end": 83.08,
+     "word": " naked"
+    },
+    {
+     "start": 83.08,
+     "end": 83.48,
+     "word": " lady"
+    },
+    {
+     "start": 83.48,
+     "end": 83.84,
+     "word": " looking"
+    },
+    {
+     "start": 83.84,
+     "end": 84.14,
+     "word": " at"
+    },
+    {
+     "start": 84.14,
+     "end": 84.34,
+     "word": " my"
+    },
+    {
+     "start": 84.34,
+     "end": 84.74,
+     "word": " books?"
+    }
+   ]
+  },
+  {
+   "start": 84.74,
+   "end": 87.5,
+   "text": "Gas my panties would be soap now.",
+   "words": [
+    {
+     "start": 84.74,
+     "end": 85.14,
+     "word": " Gas"
+    },
+    {
+     "start": 85.14,
+     "end": 85.38,
+     "word": " my"
+    },
+    {
+     "start": 85.38,
+     "end": 85.84,
+     "word": " panties"
+    },
+    {
+     "start": 85.84,
+     "end": 86.14,
+     "word": " would"
+    },
+    {
+     "start": 86.14,
+     "end": 86.32,
+     "word": " be"
+    },
+    {
+     "start": 86.32,
+     "end": 86.52,
+     "word": " soap"
+    },
+    {
+     "start": 86.52,
+     "end": 87.5,
+     "word": " now."
+    }
+   ]
+  },
+  {
+   "start": 87.74,
+   "end": 91.58,
+   "text": "My baby. My mannequin baby.",
+   "words": [
+    {
+     "start": 87.74,
+     "end": 87.76,
+     "word": " My"
+    },
+    {
+     "start": 87.76,
+     "end": 88.38,
+     "word": " baby."
+    },
+    {
+     "start": 89.2,
+     "end": 89.36,
+     "word": " My"
+    },
+    {
+     "start": 89.36,
+     "end": 89.84,
+     "word": " mannequin"
+    },
+    {
+     "start": 89.84,
+     "end": 91.58,
+     "word": " baby."
+    }
+   ]
+  },
+  {
+   "start": 98.08,
+   "end": 101.82,
+   "text": "Damn baby. Listen to this guitar sing to you.",
+   "words": [
+    {
+     "start": 98.08,
+     "end": 98.6,
+     "word": " Damn"
+    },
+    {
+     "start": 98.6,
+     "end": 99.12,
+     "word": " baby."
+    },
+    {
+     "start": 99.52,
+     "end": 99.84,
+     "word": " Listen"
+    },
+    {
+     "start": 99.84,
+     "end": 100.12,
+     "word": " to"
+    },
+    {
+     "start": 100.12,
+     "end": 100.26,
+     "word": " this"
+    },
+    {
+     "start": 100.26,
+     "end": 100.62,
+     "word": " guitar"
+    },
+    {
+     "start": 100.62,
+     "end": 101.0,
+     "word": " sing"
+    },
+    {
+     "start": 101.0,
+     "end": 101.26,
+     "word": " to"
+    },
+    {
+     "start": 101.26,
+     "end": 101.82,
+     "word": " you."
+    }
+   ]
+  },
+  {
+   "start": 103.14,
+   "end": 105.66,
+   "text": "I feel like you can see into my soul.",
+   "words": [
+    {
+     "start": 103.14,
+     "end": 103.38,
+     "word": " I"
+    },
+    {
+     "start": 103.38,
+     "end": 103.64,
+     "word": " feel"
+    },
+    {
+     "start": 103.64,
+     "end": 103.9,
+     "word": " like"
+    },
+    {
+     "start": 103.9,
+     "end": 104.02,
+     "word": " you"
+    },
+    {
+     "start": 104.02,
+     "end": 104.26,
+     "word": " can"
+    },
+    {
+     "start": 104.26,
+     "end": 104.48,
+     "word": " see"
+    },
+    {
+     "start": 104.48,
+     "end": 104.7,
+     "word": " into"
+    },
+    {
+     "start": 104.7,
+     "end": 104.94,
+     "word": " my"
+    },
+    {
+     "start": 104.94,
+     "end": 105.66,
+     "word": " soul."
+    }
+   ]
+  },
+  {
+   "start": 107.24,
+   "end": 109.6,
+   "text": "I have never been more turned on in my life.",
+   "words": [
+    {
+     "start": 107.24,
+     "end": 107.42,
+     "word": " I"
+    },
+    {
+     "start": 107.42,
+     "end": 107.62,
+     "word": " have"
+    },
+    {
+     "start": 107.62,
+     "end": 107.86,
+     "word": " never"
+    },
+    {
+     "start": 107.86,
+     "end": 108.08,
+     "word": " been"
+    },
+    {
+     "start": 108.08,
+     "end": 108.32,
+     "word": " more"
+    },
+    {
+     "start": 108.32,
+     "end": 108.54,
+     "word": " turned"
+    },
+    {
+     "start": 108.54,
+     "end": 108.74,
+     "word": " on"
+    },
+    {
+     "start": 108.74,
+     "end": 108.86,
+     "word": " in"
+    },
+    {
+     "start": 108.86,
+     "end": 109.06,
+     "word": " my"
+    },
+    {
+     "start": 109.06,
+     "end": 109.6,
+     "word": " life."
+    }
+   ]
+  },
+  {
+   "start": 112.98,
+   "end": 116.18,
+   "text": "Play your naked body onto my food tom baby.",
+   "words": [
+    {
+     "start": 112.98,
+     "end": 113.6,
+     "word": " Play"
+    },
+    {
+     "start": 113.6,
+     "end": 113.9,
+     "word": " your"
+    },
+    {
+     "start": 113.9,
+     "end": 114.2,
+     "word": " naked"
+    },
+    {
+     "start": 114.2,
+     "end": 114.64,
+     "word": " body"
+    },
+    {
+     "start": 114.64,
+     "end": 114.92,
+     "word": " onto"
+    },
+    {
+     "start": 114.92,
+     "end": 115.18,
+     "word": " my"
+    },
+    {
+     "start": 115.18,
+     "end": 115.36,
+     "word": " food"
+    },
+    {
+     "start": 115.36,
+     "end": 115.62,
+     "word": " tom"
+    },
+    {
+     "start": 115.62,
+     "end": 116.18,
+     "word": " baby."
+    }
+   ]
+  },
+  {
+   "start": 116.62,
+   "end": 119.12,
+   "text": "Watch out for instant noodle containers lady.",
+   "words": [
+    {
+     "start": 116.62,
+     "end": 116.74,
+     "word": " Watch"
+    },
+    {
+     "start": 116.74,
+     "end": 117.08,
+     "word": " out"
+    },
+    {
+     "start": 117.08,
+     "end": 117.36,
+     "word": " for"
+    },
+    {
+     "start": 117.36,
+     "end": 117.62,
+     "word": " instant"
+    },
+    {
+     "start": 117.62,
+     "end": 117.94,
+     "word": " noodle"
+    },
+    {
+     "start": 117.94,
+     "end": 118.44,
+     "word": " containers"
+    },
+    {
+     "start": 118.44,
+     "end": 119.12,
+     "word": " lady."
+    }
+   ]
+  }
+ ],
+ "word_gaps_ge_1s": [
+  [
+   5.26,
+   10.44,
+   5.18
+  ],
+  [
+   25.9,
+   27.12,
+   1.22
+  ],
+  [
+   28.32,
+   29.5,
+   1.18
+  ],
+  [
+   31.96,
+   33.68,
+   1.72
+  ],
+  [
+   40.04,
+   42.26,
+   2.22
+  ],
+  [
+   44.24,
+   52.98,
+   8.74
+  ],
+  [
+   56.72,
+   59.14,
+   2.42
+  ],
+  [
+   64.9,
+   81.96,
+   17.06
+  ],
+  [
+   91.58,
+   98.08,
+   6.5
+  ],
+  [
+   101.82,
+   103.14,
+   1.32
+  ],
+  [
+   105.66,
+   107.24,
+   1.58
+  ],
+  [
+   109.6,
+   112.98,
+   3.38
+  ]
+ ]
+}
